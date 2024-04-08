@@ -1,7 +1,7 @@
 GET http://localhost:4004/employee/personaldetails HTTP/1.1
 
 ###Get Employee full details
-GET http://localhost:4004/employee/personaldetails?$expand=Address,Department HTTP/1.1
+GET http://localhost:4004/employee/personaldetails?$expand=Address HTTP/1.1
 ###post details
 POST   http://localhost:4004/employee/personaldetails HTTP/1.1
 Content-Type: application/json
