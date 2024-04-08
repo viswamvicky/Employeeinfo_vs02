@@ -1,1 +1,5 @@
 ID,fName,lName,gender,DOB,contractStarted,email,phone,department_ID,salary_ID,designation_ID
+455b744d-8e33-4ca5-ada1-91ce6c3447bc,Chiranjivi,Seshadri,Male,1990-02-01,2012-03-11,Chiranjivi.Seshadri@abc.com,8564543278,3e274a93-8681-4d89-9362-2a94f4089038,f64caecb-d699-450f-a8ba-47eef0e42abc,27e7121c-2860-4b1c-915c-9f46b2b4b95f
+643ec8c0-b128-4af5-8a27-3c9d261fed10,Shresth,Majumdar,Male,1987-01-01,2009-10-16,Shresth.Majumdar@abc.com,9065754376,3e274a93-8681-4d89-9362-2a94f4089038,97475e75-ecfd-49a2-821f-6795807cec99,c5751e74-ef39-4135-a111-eb4b1b4d7f9a
+c1fbef5f-8771-4c77-9f26-219470eb8935,Samarth,Joshi,Male,1985-01-09,2007-07-17,Samarth.Joshi@xyz.com,9878654532,a3c85a0c-6073-4c7f-8468-1f3dd79bb8de,6d88f481-d17d-42e4-b675-5e9a2a13ed85,27e7121c-2860-4b1c-915c-9f46b2b4b95f
+2239b1c7-acb3-42d1-b8af-8fd608446f92,Akhil,Shanker,Male,1996-07-23,2018-09-20,Akhil.Shanker@xyz.com,9870653654,3e274a93-8681-4d89-9362-2a94f4089038,1e0a262e-26a7-4af1-a911-23577687cfb9,c5751e74-ef39-4135-a111-eb4b1b4d7f9a
